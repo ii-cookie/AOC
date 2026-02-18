@@ -1,0 +1,1 @@
+# idea: merge the lists to simpler list first (sort all according to starting point, then go thru each end point according to order, 
